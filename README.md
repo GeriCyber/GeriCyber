@@ -1,8 +1,10 @@
 <h2> Hello👋 My name is Geraldine and I am a Software Engineer </h2>
 
-<img align="center"
-  src="./photo.jpg"
-  width="160">
+<p align="center">
+    <img
+        src="./photo.jpg"
+        width="160">
+</p>
 
 <p align="center">
     <em>BS in Computer Science</em> <a target="_blank" href="http://www.uc.edu.ve/">University Of Carabobo</a>
