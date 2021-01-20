@@ -1,11 +1,8 @@
 <h2> Hello👋 My name is Geraldine and I am a Software Engineer </h2>
 
-<img
-  align='right'
+<img align='right'
   src="./photo.jpg"
-  width="220"
-  height="220"
-  style="border-radius: 50%;">
+  width="200">
 
 <p>
     <em>BS in Computer Science</em> <a href="http://www.uc.edu.ve/">University Of Carabobo</a>
@@ -18,7 +15,7 @@
 [![Telegram: gericyber](https://img.shields.io/badge/-gericyber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/gericyber)](https://t.me/gericyber)
 
 
-### <img src="https://media.giphy.com/media/FfFFSTXD2OkMLvyPll/giphy.gif" width="50"> Some things i love...  
+### 💚 Some things i love...  
 
 ```javascript
 const GeriCyber = {
