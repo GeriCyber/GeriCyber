@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <em>BS in Computer Science</em> <a target="_blank" href="http://www.uc.edu.ve/">University Of Carabobo</a>
+    BS in Computer Science <a target="_blank" href="http://www.uc.edu.ve/">University Of Carabobo</a>
     </br>Fullstack Web Developer | Front End Architect
 </p>
 
