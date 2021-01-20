@@ -18,7 +18,6 @@
 [![GitHub GeriCyber](https://img.shields.io/github/followers/GeriCyber?label=follow&style=social)](https://github.com/GeriCyber) &nbsp;
 [![Telegram: gericyber](https://img.shields.io/badge/-gericyber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/gericyber)](https://t.me/gericyber) &nbsp;
 [![Twitter: GeriCyber](https://img.shields.io/badge/-GeriCyber-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/GeriCyber)](https://twitter.com/GeriCyber)
-
 </p>
 
 ### 💚 Some things i love...  
