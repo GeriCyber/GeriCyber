@@ -2,7 +2,7 @@
 
 <img align='right'
   src="./photo.jpg"
-  width="200">
+  width="160">
 
 <p>
     <em>BS in Computer Science</em> <a href="http://www.uc.edu.ve/">University Of Carabobo</a>
