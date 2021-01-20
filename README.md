@@ -1,4 +1,3 @@
-### Hi there 
 <h2> Hello👋 My name is Geraldine and I am a Software Engineer </h2>
 
 <img align='right' src="./photo.jpg" width="230">
