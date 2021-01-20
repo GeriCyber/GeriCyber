@@ -1,18 +1,24 @@
 <h2> Hello👋 My name is Geraldine and I am a Software Engineer </h2>
 
-<img align='right' src="./photo.jpg" width="230">
+<img
+  align='right'
+  src="./photo.jpg"
+  width="220"
+  height="220"
+  style="border-radius: 50%;">
 
-<p><em>BS in Computer Science <a href="http://www.uc.edu.ve/">University Of Carabobo</a>
-</br>Fullstack Web Developer | Front End Architect
-</em></p>
+<p>
+    <em>BS in Computer Science</em> <a href="http://www.uc.edu.ve/">University Of Carabobo</a>
+    </br>Fullstack Web Developer | Front End Architect
+</p>
 
 
-[![Linkedin: gericyber](https://img.shields.io/badge/-gericyber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gericyber/)](https://www.linkedin.com/in/gericyber/)
-[![GitHub GeriCyber](https://img.shields.io/github/followers/GeriCyber?label=follow&style=social)](https://github.com/GeriCyber)
+[![Linkedin: gericyber](https://img.shields.io/badge/-gericyber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gericyber/)](https://www.linkedin.com/in/gericyber/) &nbsp; &nbsp;
+[![GitHub GeriCyber](https://img.shields.io/github/followers/GeriCyber?label=follow&style=social)](https://github.com/GeriCyber) &nbsp; &nbsp;
 [![Telegram: gericyber](https://img.shields.io/badge/-gericyber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/gericyber)](https://t.me/gericyber)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some things i love...  
+### <img src="https://media.giphy.com/media/FfFFSTXD2OkMLvyPll/giphy.gif" width="50"> Some things i love...  
 
 ```javascript
 const GeriCyber = {
