@@ -5,14 +5,15 @@
   width="160">
 
 <p>
-    <em>BS in Computer Science</em> <a href="http://www.uc.edu.ve/">University Of Carabobo</a>
+    <em>BS in Computer Science</em> <a target="_blank" href="http://www.uc.edu.ve/">University Of Carabobo</a>
     </br>Fullstack Web Developer | Front End Architect
 </p>
 
 
 [![Linkedin: gericyber](https://img.shields.io/badge/-gericyber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gericyber/)](https://www.linkedin.com/in/gericyber/) &nbsp; &nbsp;
 [![GitHub GeriCyber](https://img.shields.io/github/followers/GeriCyber?label=follow&style=social)](https://github.com/GeriCyber) &nbsp; &nbsp;
-[![Telegram: gericyber](https://img.shields.io/badge/-gericyber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/gericyber)](https://t.me/gericyber)
+[![Telegram: gericyber](https://img.shields.io/badge/-gericyber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/gericyber)](https://t.me/gericyber) &nbsp; &nbsp;
+[![Twitter: GeriCyber](https://img.shields.io/badge/-GeriCyber-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/GeriCyber)](https://twitter.com/GeriCyber)
 
 
 ### 💚 Some things i love...  
