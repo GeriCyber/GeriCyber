@@ -8,7 +8,7 @@
 
 <p align="center">
     BS in Computer Science <a target="_blank" href="http://www.uc.edu.ve/">University Of Carabobo</a>
-    </br>Fullstack Web Developer | Front End Architect
+    </br>Software Engineer
 </p>
 
 
