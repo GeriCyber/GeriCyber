@@ -22,7 +22,7 @@
 
 ```javascript
 const GeriCyber = {
-  code: [HTML, CSS, Javascript, jQuery, TypeScript, Angular, Ionic, Vue.js, Firebase, Node.js, PHP, Laravel, MySQL, C, C++],
+  code: [HTML, CSS, Javascript, jQuery, TypeScript, Angular, Ionic, React, Vue.js, Firebase, Node.js, PHP, Laravel, MySQL, C, C++],
   tools: [Git, Jira, Confluence, Slack, BitBucket, VSCode],
   SO: [Windows, Linux, Mac OS],
   design: [Adobe XD],
