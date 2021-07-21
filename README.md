@@ -6,7 +6,7 @@
 
 <p align="center">
     <img
-        src="./photo.jpg"
+        src="./1F66C5FD-6454-46F6-AF4D-C61E905935A7.png"
         width="140">
 </p>
 
@@ -37,6 +37,6 @@ const GeriCyber = {
 <br>
 
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=gericyber&count_private=true&hide_rank=true&include_all_commit=trues&show_icons=true&theme=tokyonight"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=gericyber&count_private=true&include_all_commits=trues&show_icons=true&theme=tokyonight"/>&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gericyber&langs_count=8&layout=compact"/>
 </p>
