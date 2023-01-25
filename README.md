@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="50%" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" alt="cover" />
+    <img width="50%" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="cover" />
 </div>
 
 <h2> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> My name is Geraldine and I'm a Software Engineer </h2>
@@ -43,5 +43,4 @@ const GeriCyber = {
 
 <p align="center">
     <img src="[https://wakatime.com/share/@gericyber/e1050e57-35e7-40e4-b6e3-4520ab5b8881.svg](https://wakatime.com/share/@gericyber/f8539903-1dfc-48a7-aeff-72bca8bec53a.svg)" height="400"/>
-    <img src="https://wakatime.com/share/@gericyber/e1050e57-35e7-40e4-b6e3-4520ab5b8881.svg" height="400"/>
 </p>
