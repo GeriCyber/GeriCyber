@@ -39,7 +39,9 @@ const GeriCyber = {
 ### :fire: My Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gericyber&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gericyber&langs_count=8&layout=compact&exclude_repo=equiser-app-website,TEG-Febeca,GAD-Voyager-Admin,Garmocar-Shop&hide=css"/>
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gericyber&langs_count=8&layout=compact&exclude_repo=equiser-app-website,TEG-Febeca,GAD-Voyager-Admin,Garmocar-Shop&hide=css"/>
+    <img src="[https://wakatime.com/share/@gericyber/e1050e57-35e7-40e4-b6e3-4520ab5b8881.svg](https://wakatime.com/share/@gericyber/f8539903-1dfc-48a7-aeff-72bca8bec53a.svg)" height="400"/>
     <img src="https://wakatime.com/share/@gericyber/e1050e57-35e7-40e4-b6e3-4520ab5b8881.svg" height="400"/>
 </p>
