@@ -37,8 +37,9 @@ const GeriCyber = {
 <br>
 
 ### :fire: My Stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gericyber&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
-<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gericyber&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)&nbsp;&nbsp;
+<p align="center">
+    &nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gericyber&langs_count=8&layout=compact"/>
 </p>
