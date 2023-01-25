@@ -36,8 +36,8 @@ const GeriCyber = {
 ```
 <br>
 
-### :fire: My Stats : 
-    [![GitHub Streak](https://streak-stats.demolab.com?user=gericyber&theme=tokyonight)](https://git.io/streak-stats)
+### :fire: My Stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gericyber&theme=tokyonight)](https://git.io/streak-stats)
 
 
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
