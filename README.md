@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="30%" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="cover" />
+    <img width="40%" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="cover" />
 </div>
 
 <h2> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> My name is Geraldine and I'm a Software Engineer </h2>
@@ -40,5 +40,5 @@ const GeriCyber = {
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gericyber&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 <p>
-    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gericyber&langs_count=8&layout=compact&exclude_repo=equiser-app-website,TEG-Febeca,GAD-Voyager-Admin,Garmocar-Shop&hide=css"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gericyber&langs_count=8&layout=compact&exclude_repo=equiser-app-website,TEG-Febeca,GAD-Voyager-Admin,Garmocar-Shop&hide=css"/>
 </p>
