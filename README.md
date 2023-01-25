@@ -42,6 +42,6 @@ const GeriCyber = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gericyber&langs_count=8&layout=compact&exclude_repo=equiser-app-website,TEG-Febeca,GAD-Voyager-Admin,Garmocar-Shop&hide=css"/>
 </p>
