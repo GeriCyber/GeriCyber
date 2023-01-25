@@ -36,6 +36,11 @@ const GeriCyber = {
 ```
 <br>
 
+<h2>My Stats 🔥</h2>
+<p align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=gericyber&theme=tokyonight)](https://git.io/streak-stats)
+</p>
+
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=gericyber&count_private=true&include_all_commits=trues&show_icons=true&hide_rank=true&theme=tokyonight"/>&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gericyber&langs_count=8&layout=compact"/>
